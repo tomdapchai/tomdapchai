@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I'm a student.</p>
+<h1>Im a student.</h1
 
 [![Tomdapchai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomdapchai&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
