@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Im a student.</h1>
-
-[![Tomdapchai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomdapchai&theme=react)](https://tomdapchai.com) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdapchai&layout=compact)](https://tomdapchai.com)
-
