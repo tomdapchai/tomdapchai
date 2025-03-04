@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Im a student.</h1>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomdapchai)](https://github.com/anuraghazra/github-readme-stats)
