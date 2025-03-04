@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Im a student.</h1>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomdapchai)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div style="display: flex; gap: 10px; justify-content: flex-start; align-items: flex-start;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tomdapchai" alt="My GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdapchai&layout=compact" alt="Top Langs" />
+  </a>
+</div>
+
+
+
+
